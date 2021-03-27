@@ -1,0 +1,53 @@
+body {
+    background: black;
+    font-family: 'Playfair Display', serif;
+}
+.post {
+    background: white;
+    width: 470px;
+    height: 620px;
+    margin: auto;
+
+}
+.post-header {
+    display: flex;
+    padding:8px;
+}
+.post-header-img i{
+    width: 80%;
+    height: 80%;
+    padding-top: 7px;
+    padding-right: 6px;
+}
+.post-header-dots i{
+    padding-left: 357px;
+    padding-top: 5px;
+    size: 300px;
+}
+.post-img img{
+    width: 470px;
+    height: 330px;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+}
+.post-icons {
+    display: flex;
+    padding: 4px;
+}
+.heart {
+    padding-right: 3px;
+    padding-left: 10px;
+}
+.comment {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.pap-plane {
+    padding-left: 3px;
+}
+.bookmark {
+    padding-left: 350px;
+}
+.post-footer {
+    padding-left: 15px;
+}
